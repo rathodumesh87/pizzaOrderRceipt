@@ -1,0 +1,11 @@
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\bin\Debug\pizzaOrderRceipt.exe.config
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\bin\Debug\pizzaOrderRceipt.exe
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\bin\Debug\pizzaOrderRceipt.pdb
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.csprojAssemblyReference.cache
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.Biling.resources
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.Login.resources
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.Properties.Resources.resources
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.csproj.GenerateResource.cache
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.csproj.CoreCompileInputs.cache
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.exe
+C:\Users\ratho\source\repos\pizzaOrderRceipt\pizzaOrderRceipt\obj\Debug\pizzaOrderRceipt.pdb
